@@ -1,0 +1,29 @@
+# Bỏ qua các file Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Bỏ qua các thư viện môi trường ảo
+env/
+venv/
+.venv/
+
+# Bỏ qua file cấu hình editor
+.vscode/
+.idea/
+
+# Bỏ qua dữ liệu riêng
+*.log
+*.sqlite3
+*.db
+
+# Bỏ qua file hệ thống
+.DS_Store
+Thumbs.db
+
+# Bỏ qua các file token/api key nếu có
+*.env
+.env
+
+# File đầu ra
+*.json
