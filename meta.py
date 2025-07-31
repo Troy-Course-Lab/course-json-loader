@@ -88,6 +88,13 @@ def parse_link_references_from_readme(readme_content):
     return link_map
 
 def extract_course_metadata(repo_url_or_path, output_file='course.json'):
+    # PREREQUISITE: check if git-lfs is installed
+    if not shutil.which('git-lfs'):
+        print("Lỗi: 'git-lfs' không được cài đặt hoặc không có trong PATH của hệ thống.")
+        print("Vui lòng cài đặt Git LFS để có thể clone repo chứa các file lớn.")
+        print("Hướng dẫn: https://git-lfs.github.com/")
+        return
+
     temp_dir = None # Track thư mục temp nếu dùng clone về temp
     
     # Nếu đầu vào là một URL, clone repo vào một thư mục temp.
