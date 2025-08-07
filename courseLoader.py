@@ -14,18 +14,15 @@ COURSE_TEMPLATE = {
   "prerequisites": [],
   "instructor": "",
   "description": "",
-  "learning_outcomes": [],
-  "term": "",
-  "classes": [],
-  "grading_policy": "",
-  "textbooks": [],
+  "current_term": true,
+  "classes": [], # A, B, C
+  "grading_policy": "", # A: 100%, B: 80%, C: 60%, D: 40%, F: 0%
+  "textbooks": [], # [{filename: "sadfsdf", link: "https://www.google.com", id: {course-id}textbook-1}, {filename: "sadfsdf", link: "https://www.google.com", id: {course-id}textbook-not-required}]
   "reference_materials": [],
   "exam_dates": {},
-  "contact": "",
   "files": {
     "syllabus": None,
     "chapters": [],
-    "books": [],
     "assignments": [],
     "exams": []
   }
