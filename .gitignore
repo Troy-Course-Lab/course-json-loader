@@ -24,6 +24,3 @@ Thumbs.db
 # Bỏ qua các file token/api key nếu có
 *.env
 .env
-
-# File đầu ra
-*.json

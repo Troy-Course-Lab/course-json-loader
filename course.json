@@ -1,0 +1,3180 @@
+[
+  {
+    "course_code": "TROY-1101",
+    "title": "University Orientation",
+    "credits": 1,
+    "prerequisites": [],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Admission-Policies_Nguyen-Kieu-Anh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/TROY-1101/Modules/Admission-Policies_Nguyen-Kieu-Anh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Course-Overview_Nguyen-Kieu-Anh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/TROY-1101/Modules/Course-Overview_Nguyen-Kieu-Anh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Program-Curriculum_Nguyen-Kieu-Anh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/TROY-1101/Modules/Program-Curriculum_Nguyen-Kieu-Anh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Registration-Guide_Nguyen-Kieu-Anh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/TROY-1101/Modules/Registration-Guide_Nguyen-Kieu-Anh.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/TROY-1101/References/.keep",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/TROY-1101/Syllabi/.keep",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "ENG-1101",
+    "title": "English Composition I",
+    "credits": 3,
+    "prerequisites": [],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-1101/Modules/.keep",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-1101/References/.keep",
+        "link": ""
+      },
+      {
+        "filename": "References/Student's Book of College Engli - David Skwire.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-1101/References/Student%27s%20Book%20of%20College%20Engli%20-%20David%20Skwire.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/Writer's Reference 9th Hacker.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-1101/References/Writer%27s%20Reference%209th%20Hacker.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-1101/Syllabi/.keep",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "ART-1133",
+    "title": "Visual Art",
+    "credits": 2,
+    "prerequisites": [],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ART-1133/Modules/.keep",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ART-1133/References/.keep",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ART-1133/Syllabi/.keep",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "HIS-1123",
+    "title": "World History from 1500",
+    "credits": 3,
+    "prerequisites": [],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/HIS-1123/Modules/.keep",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/HIS-1123/References/.keep",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/World History since 1500-Spring 2024.doc",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/HIS-1123/Syllabi/World%20History%20since%201500-Spring%202024.doc",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "HIS-1122",
+    "title": "World History to 1500",
+    "credits": 3,
+    "prerequisites": [],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/HIS-1122/Modules/.keep",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/HIS-1122/References/.keep",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/World History to 1500 (HIS122)-ThuyPV.doc",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/HIS-1122/Syllabi/World%20History%20to%201500%20%28HIS122%29-ThuyPV.doc",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "MUS-1131",
+    "title": "Music Appreciation",
+    "credits": 2,
+    "prerequisites": [],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MUS-1131/Modules/.keep",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MUS-1131/References/.keep",
+        "link": ""
+      },
+      {
+        "filename": "References/music-the-art-of-listening-7th-edition.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MUS-1131/References/music-the-art-of-listening-7th-edition.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MUS-1131/Syllabi/.keep",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "COM-2241",
+    "title": "Fundamentals of Speech",
+    "credits": 3,
+    "prerequisites": [],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/COM-2241/Modules/.keep",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/COM-2241/References/.keep",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/SPH syllabus.doc",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/COM-2241/Syllabi/SPH%20syllabus.doc",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "ENG-1102",
+    "title": "English Composition II",
+    "credits": 3,
+    "prerequisites": [
+      "ENG 1101 with C"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/APA-guide_Tran-Thi-Lan-Huong.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-1102/Modules/APA-guide_Tran-Thi-Lan-Huong.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Research-Topics-and-Research-Questions_Tran-Thi-Lan-Huong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-1102/Modules/Research-Topics-and-Research-Questions_Tran-Thi-Lan-Huong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/SEARCH-STRATEGY_Tran-Thi-Lan-Huong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-1102/Modules/SEARCH-STRATEGY_Tran-Thi-Lan-Huong.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/APA SAMPLE PAPER (2).docx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-1102/References/APA%20SAMPLE%20PAPER%20%282%29.docx",
+        "link": ""
+      },
+      {
+        "filename": "References/The bedford guide for college writers 11th edition.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-1102/References/The%20bedford%20guide%20for%20college%20writers%2011th%20edition.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/SYLLABUS ENG1102 MS HUONG..docx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-1102/Syllabi/SYLLABUS%20ENG1102%20MS%20HUONG..docx",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/Exercise Writing an abstract .pdf",
+      "Assignments/Introduction to Research Writing Handout.pdf"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "ENG-2205",
+    "title": "World Literature I",
+    "credits": 3,
+    "prerequisites": [
+      "ENG 1102 with C"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-2205/Modules/.keep",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/ENG- ACADEMIC WRITING/Booth, Wayne C. et al - The Craft of Research (1995; 4th ed., 2016).pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-2205/References/ENG-%20ACADEMIC%20WRITING/Booth%2C%20Wayne%20C.%20et%20al%20-%20The%20Craft%20of%20Research%20%281995%3B%204th%20ed.%2C%202016%29.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/ENG- ACADEMIC WRITING/Graff, Gerald & Cathy Birkenstein - 'They Say. I Say' ~ The Moves That Matter in Academic Writing (2006; 5th ed., 2021).pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-2205/References/ENG-%20ACADEMIC%20WRITING/Graff%2C%20Gerald%20%26%20Cathy%20Birkenstein%20-%20%27They%20Say.%20I%20Say%27%20~%20The%20Moves%20That%20Matter%20in%20Academic%20Writing%20%282006%3B%205th%20ed.%2C%202021%29.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/ENG- APA Format/Hacker, Diana & Nancy Sommers - A Pocket Style Manual, APA Version (6th ed., 2013).pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-2205/References/ENG-%20APA%20Format/Hacker%2C%20Diana%20%26%20Nancy%20Sommers%20-%20A%20Pocket%20Style%20Manual%2C%20APA%20Version%20%286th%20ed.%2C%202013%29.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/ENG- APA Format/Szuchman, Lenore T. - Writing with Style ~ APA Style Made Easy (2008; 6th ed., 2014).pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-2205/References/ENG-%20APA%20Format/Szuchman%2C%20Lenore%20T.%20-%20Writing%20with%20Style%20~%20APA%20Style%20Made%20Easy%20%282008%3B%206th%20ed.%2C%202014%29.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/ENG- DICTIONARIES OF LITERARY TERMS/Abrams, M. H. & Geoffrey Galt Harpham - A Glossary of Literary Terms (11th ed., 2015).pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-2205/References/ENG-%20DICTIONARIES%20OF%20LITERARY%20TERMS/Abrams%2C%20M.%20H.%20%26%20Geoffrey%20Galt%20Harpham%20-%20A%20Glossary%20of%20Literary%20Terms%20%2811th%20ed.%2C%202015%29.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/ENG- DICTIONARIES OF LITERARY TERMS/Cuddon, J. A. - A Dictionary of Literary Terms and Literary Theory (5th ed., 2013).pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-2205/References/ENG-%20DICTIONARIES%20OF%20LITERARY%20TERMS/Cuddon%2C%20J.%20A.%20-%20A%20Dictionary%20of%20Literary%20Terms%20and%20Literary%20Theory%20%285th%20ed.%2C%202013%29.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/ENG- DICTIONARIES OF LITERARY TERMS/Murfin, Ross & Supryia M. Ray (eds.) - The Bedford Glossary of Critical and Literary Terms (1998; 4th ed., 2018).pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-2205/References/ENG-%20DICTIONARIES%20OF%20LITERARY%20TERMS/Murfin%2C%20Ross%20%26%20Supryia%20M.%20Ray%20%28eds.%29%20-%20The%20Bedford%20Glossary%20of%20Critical%20and%20Literary%20Terms%20%281998%3B%204th%20ed.%2C%202018%29.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/TheNortonAnthologyofWorldLiterature_VolABC_4thEd+Supplement.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-2205/References/TheNortonAnthologyofWorldLiterature_VolABC_4thEd%2BSupplement.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/IHAA Syllabus of ENG-2205 World Literature I (before 1660) for 2025 Summer Semester.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ENG-2205/Syllabi/IHAA%20Syllabus%20of%20ENG-2205%20World%20Literature%20I%20%28before%201660%29%20for%202025%20Summer%20Semester.pdf",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "ECO-2251",
+    "title": "Macroeconomics",
+    "credits": 3,
+    "prerequisites": [],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Unit-0_Course-Introduction_Nguyen-Tai-Vuong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/Modules/Unit-0_Course-Introduction_Nguyen-Tai-Vuong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-1_Nguyen-Tai-Vuong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/Modules/Unit-1_Nguyen-Tai-Vuong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-2_Nguyen-Tai-Vuong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/Modules/Unit-2_Nguyen-Tai-Vuong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-3_Nguyen-Tai-Vuong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/Modules/Unit-3_Nguyen-Tai-Vuong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-4_Nguyen-Tai-Vuong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/Modules/Unit-4_Nguyen-Tai-Vuong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-5_Nguyen-Tai-Vuong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/Modules/Unit-5_Nguyen-Tai-Vuong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-6_Nguyen-Tai-Vuong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/Modules/Unit-6_Nguyen-Tai-Vuong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-7_Nguyen-Tai-Vuong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/Modules/Unit-7_Nguyen-Tai-Vuong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-8_Nguyen-Tai-Vuong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/Modules/Unit-8_Nguyen-Tai-Vuong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-9_Nguyen-Tai-Vuong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/Modules/Unit-9_Nguyen-Tai-Vuong.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/References/.keep",
+        "link": ""
+      },
+      {
+        "filename": "References/REF-unit-1_chapter-1.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/References/REF-unit-1_chapter-1.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/REF-unit-1_chapter-2.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/References/REF-unit-1_chapter-2.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/REF-unit-1_chapter-3.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/References/REF-unit-1_chapter-3.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/REF-unit-2_chapter-6.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/References/REF-unit-2_chapter-6.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/REF-unit-2_chapter-7.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/References/REF-unit-2_chapter-7.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/REF-unit-3_chapter-8.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/References/REF-unit-3_chapter-8.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/REF-unit-4_chapter-9.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/References/REF-unit-4_chapter-9.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/REF-unit-5_chapter-10.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/References/REF-unit-5_chapter-10.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/REF-unit-6_chapter-19.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/References/REF-unit-6_chapter-19.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/REF-unit-7_chapter-11.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/References/REF-unit-7_chapter-11.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/REF-unit-8_chapter-11b.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/References/REF-unit-8_chapter-11b.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/REF-unit-8_chapter-12.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/References/REF-unit-8_chapter-12.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/REF-unit-9_chapter-13.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/References/REF-unit-9_chapter-13.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/REF-unit-9_chapter-15.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/References/REF-unit-9_chapter-15.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/ECO251.Syllabus.Principles of Macroeconomics.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/ECO-2251/Syllabi/ECO251.Syllabus.Principles%20of%20Macroeconomics.pdf",
+        "link": ""
+      }
+    ],
+    "assignments": [],
+    "exams": [
+      "Assignments/EXAM_final_Spring-2024_Nguyen-Tai-Vuong.pdf",
+      "Assignments/EXAM_midterm_Spring-2024_Nguyen-Tai-Vuong.pdf"
+    ]
+  },
+  {
+    "course_code": "CHM",
+    "title": "General Chemistry and Lab I",
+    "credits": 4,
+    "prerequisites": [],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-10_Gases_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-10_Gases_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-11_Liquids-and-Intermolecular-Forces_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-11_Liquids-and-Intermolecular-Forces_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-12_Solids-and-Modern-Materials_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-12_Solids-and-Modern-Materials_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-13_Properties-of-Solutions_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-13_Properties-of-Solutions_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-14_Kinetics_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-14_Kinetics_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-15_Chemical-Equilibrium_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-15_Chemical-Equilibrium_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-16_Acid-Base-Equilibria_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-16_Acid-Base-Equilibria_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-17_Additional-Aspects-of-Aqueous-Equilibria_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-17_Additional-Aspects-of-Aqueous-Equilibria_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-19_Chemical-Thermodynamics_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-19_Chemical-Thermodynamics_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-1_Matter-Its-Properties-and-Measurement_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-1_Matter-Its-Properties-and-Measurement_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-20_Electrochemistry_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-20_Electrochemistry_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-2_Atoms-and-the-Atomic-Theory_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-2_Atoms-and-the-Atomic-Theory_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-3_Chemical-Compounds_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-3_Chemical-Compounds_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-4_Reactions-in-Aqueous-Solutions_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-4_Reactions-in-Aqueous-Solutions_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-5_Thermochemistry_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-5_Thermochemistry_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-6_Electronic-Structure-of-Atoms_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-6_Electronic-Structure-of-Atoms_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-7_Periodic-Properties-of-the-Elements_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-7_Periodic-Properties-of-the-Elements_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-8_Basic-Concept-of-Chemical-Bonding_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-8_Basic-Concept-of-Chemical-Bonding_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-9_Extra-Example_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-9_Extra-Example_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-9_Molecular-Geometry-and-Bonding-Theories_Vu-Thi-Ngoc-Minh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Modules/Chapter-9_Molecular-Geometry-and-Bonding-Theories_Vu-Thi-Ngoc-Minh.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/An example of marking guide-TROY-CHM.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/References/An%20example%20of%20marking%20guide-TROY-CHM.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/Horrible Science - Chemical Chaos 1997.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/References/Horrible%20Science%20-%20Chemical%20Chaos%201997.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/Hybridization in H3PO4.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/References/Hybridization%20in%20H3PO4.pptx",
+        "link": ""
+      },
+      {
+        "filename": "References/Hybridization in HClO3.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/References/Hybridization%20in%20HClO3.pptx",
+        "link": ""
+      },
+      {
+        "filename": "References/The Cartoon Guide to Chemistry by Larry Gonick, Craig Criddle.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/References/The%20Cartoon%20Guide%20to%20Chemistry%20by%20Larry%20Gonick%2C%20Craig%20Criddle.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/GENERAL CHEMISTRY I _ Syllabus_Spring2024.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CHM-1142/Syllabi/GENERAL%20CHEMISTRY%20I%20_%20Syllabus_Spring2024.pdf",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/Chemistry_Lab.pdf"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "PHY",
+    "title": "General Physics and Lab I",
+    "credits": 4,
+    "prerequisites": [],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/PHY-2252/Modules/.keep",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/College Physics 9th Edition - Solution Manual.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/PHY-2252/References/College%20Physics%209th%20Edition%20-%20Solution%20Manual.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/Công-thức-vật-lý-BKOST.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/PHY-2252/References/C%C3%B4ng-th%E1%BB%A9c-v%E1%BA%ADt-l%C3%BD-BKOST.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/Entropy(hay).pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/PHY-2252/References/Entropy%28hay%29.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/PHY2252_syllabus_20233_Nguyen Hoang Thoan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/PHY-2252/Syllabi/PHY2252_syllabus_20233_Nguyen%20Hoang%20Thoan.pdf",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/20233_PHY2252_Lab_handout_NguyenHoangThoan-updated.pdf",
+      "Assignments/20233_Problems of Physics I - TROY_Exercises_College Physics.pdf"
+    ],
+    "exams": [
+      "Assignments/EXAM_final_Summer-2024_Nguyen-Hoang-Thoan.pdf"
+    ]
+  },
+  {
+    "course_code": "MTH-1125",
+    "title": "Calculus I",
+    "credits": 4,
+    "prerequisites": [
+      "MTH 1114 with C"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-1_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1125/Modules/Chapter-1_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-2_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1125/Modules/Chapter-2_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-3_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1125/Modules/Chapter-3_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-4_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1125/Modules/Chapter-4_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-5_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1125/Modules/Chapter-5_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-6_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1125/Modules/Chapter-6_Khoi%26Toan.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/Calculus_Cheat_Sheet_All.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1125/References/Calculus_Cheat_Sheet_All.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/Complete_Solutions_Manual_for_SINGLE_VAR.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1125/References/Complete_Solutions_Manual_for_SINGLE_VAR.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/James Stewart - Calculus_ Early Transcendentals, 7th Edition - Brooks Cole (2012).pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1125/References/James%20Stewart%20-%20Calculus_%20Early%20Transcendentals%2C%207th%20Edition%20-%20Brooks%20Cole%20%282012%29.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/MTH 1125_syllabus.doc",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1125/Syllabi/MTH%201125_syllabus.doc",
+        "link": ""
+      }
+    ],
+    "assignments": [],
+    "exams": [
+      "Assignments/EXAM_final_Spring-2025_Vu-The-Khoi.pdf",
+      "Assignments/EXAM_midterm_Spring-2025_Vu-The-Khoi.pdf"
+    ]
+  },
+  {
+    "course_code": "MTH-1126",
+    "title": "Calculus II",
+    "credits": 4,
+    "prerequisites": [
+      "MTH 1125"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-10_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1126/Modules/Chapter-10_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-11_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1126/Modules/Chapter-11_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-12_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1126/Modules/Chapter-12_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-13_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1126/Modules/Chapter-13_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-14_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1126/Modules/Chapter-14_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-15_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1126/Modules/Chapter-15_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-16_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1126/Modules/Chapter-16_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-17_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1126/Modules/Chapter-17_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-7_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1126/Modules/Chapter-7_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-8_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1126/Modules/Chapter-8_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-9_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1126/Modules/Chapter-9_Khoi%26Toan.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/Calculus_Cheat_Sheet_All.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1126/References/Calculus_Cheat_Sheet_All.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/Complete_Solutions_Manual_for_SINGLE_VAR.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1126/References/Complete_Solutions_Manual_for_SINGLE_VAR.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/James Stewart - Calculus_ Early Transcendentals, 7th Edition - Brooks Cole (2012).pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1126/References/James%20Stewart%20-%20Calculus_%20Early%20Transcendentals%2C%207th%20Edition%20-%20Brooks%20Cole%20%282012%29.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/MTH 1126_syllabus.doc",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1126/Syllabi/MTH%201126_syllabus.doc",
+        "link": ""
+      }
+    ],
+    "assignments": [],
+    "exams": [
+      "Assignments/EXAM_midterm_Summer-2025_Vu-The-Khoi.pdf"
+    ]
+  },
+  {
+    "course_code": "CS-2220",
+    "title": "Numerical Methods in Computing",
+    "credits": 3,
+    "prerequisites": [
+      "MTH 1112 with C"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-11_Reading-and-Writing-Data_Hyung-Jae-Chang.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Modules/Chapter-11_Reading-and-Writing-Data_Hyung-Jae-Chang.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-12_Visualization-and-Plotting_Hyung-Jae-Chang.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Modules/Chapter-12_Visualization-and-Plotting_Hyung-Jae-Chang.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-14_Linear-Algebra-and-Systems-of-Linear-Equations-Part-1_Hyung-Jae-Chang.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Modules/Chapter-14_Linear-Algebra-and-Systems-of-Linear-Equations-Part-1_Hyung-Jae-Chang.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-14_Linear-Algebra-and-Systems-of-Linear-Equations-Part-2_Hyung-Jae-Chang.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Modules/Chapter-14_Linear-Algebra-and-Systems-of-Linear-Equations-Part-2_Hyung-Jae-Chang.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-15_Eigenvalues-and-Eigenvectors_Hyung-Jae-Chang.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Modules/Chapter-15_Eigenvalues-and-Eigenvectors_Hyung-Jae-Chang.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-16_Least-Squares-Regression_Hyung-Jae-Chang.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Modules/Chapter-16_Least-Squares-Regression_Hyung-Jae-Chang.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-17_Interpolation_Hyung-Jae-Chang.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Modules/Chapter-17_Interpolation_Hyung-Jae-Chang.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-19_Root-Finding_Hyung-Jae-Chang.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Modules/Chapter-19_Root-Finding_Hyung-Jae-Chang.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-1_Introduction-to-Python-Programming_Hyung-Jae-Chang.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Modules/Chapter-1_Introduction-to-Python-Programming_Hyung-Jae-Chang.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-2_Variables-and-Basic-Data-Structures_Hyung-Jae-Chang.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Modules/Chapter-2_Variables-and-Basic-Data-Structures_Hyung-Jae-Chang.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-3_Functions_Hyung-Jae-Chang.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Modules/Chapter-3_Functions_Hyung-Jae-Chang.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-4_Branching-Statements_Hyung-Jae-Chang.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Modules/Chapter-4_Branching-Statements_Hyung-Jae-Chang.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-5_Iteration_Hyung-Jae-Chang.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Modules/Chapter-5_Iteration_Hyung-Jae-Chang.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-6_Recursion_Hyung-Jae-Chang.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Modules/Chapter-6_Recursion_Hyung-Jae-Chang.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-7_Object-Oriented-Programming_Hyung-Jae-Chang.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Modules/Chapter-7_Object-Oriented-Programming_Hyung-Jae-Chang.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-9_Representation-of-Numbers_Hyung-Jae-Chang.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Modules/Chapter-9_Representation-of-Numbers_Hyung-Jae-Chang.pptx",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/References/.keep",
+        "link": ""
+      },
+      {
+        "filename": "References/python-programming-and-numerical-methods-a-guide-for-engineers-and-scientist-1nbsped-0128195495-9780128195499_compress.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/References/python-programming-and-numerical-methods-a-guide-for-engineers-and-scientist-1nbsped-0128195495-9780128195499_compress.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/cs2220.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2220/Syllabi/cs2220.pdf",
+        "link": ""
+      }
+    ],
+    "assignments": [],
+    "exams": [
+      "Assignments/EXAM_final_Spring-2025_Hyung-Jae-Chang.pdf",
+      "Assignments/EXAM_midterm_Spring-2025_Hyung-Jae-Chang.md"
+    ]
+  },
+  {
+    "course_code": "CS-2250",
+    "title": "Computer Science I",
+    "credits": 3,
+    "prerequisites": [
+      "MTH 1112 with C"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-1_Bui-Thi-Mai-Anh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2250/Modules/Chapter-1_Bui-Thi-Mai-Anh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-2_Bui-Thi-Mai-Anh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2250/Modules/Chapter-2_Bui-Thi-Mai-Anh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-3_Bui-Thi-Mai-Anh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2250/Modules/Chapter-3_Bui-Thi-Mai-Anh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-4_Bui-Thi-Mai-Anh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2250/Modules/Chapter-4_Bui-Thi-Mai-Anh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-5_Bui-Thi-Mai-Anh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2250/Modules/Chapter-5_Bui-Thi-Mai-Anh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-6_Bui-Thi-Mai-Anh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2250/Modules/Chapter-6_Bui-Thi-Mai-Anh.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-7_Bui-Thi-Mai-Anh.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2250/Modules/Chapter-7_Bui-Thi-Mai-Anh.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2250/References/.keep",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/CS255-2024-Fall-Syllabus- Dr Mai Anh.doc",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2250/Syllabi/CS255-2024-Fall-Syllabus-%20Dr%20Mai%20Anh.doc",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/assignment-topics.pdf"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "CS-2255",
+    "title": "Computer Science II",
+    "credits": 3,
+    "prerequisites": [
+      "CS 2250"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-10_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2255/Modules/Chapter-10_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-11_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2255/Modules/Chapter-11_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-12_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2255/Modules/Chapter-12_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-13_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2255/Modules/Chapter-13_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-14_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2255/Modules/Chapter-14_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-15_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2255/Modules/Chapter-15_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-16_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2255/Modules/Chapter-16_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-19_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2255/Modules/Chapter-19_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-9_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2255/Modules/Chapter-9_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2255/References/.keep",
+        "link": ""
+      },
+      {
+        "filename": "References/StartingoutCplusplus-6eds.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2255/References/StartingoutCplusplus-6eds.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/CS256 - syllabus2024.docx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-2255/Syllabi/CS256%20-%20syllabus2024.docx",
+        "link": ""
+      }
+    ],
+    "assignments": [],
+    "exams": [
+      "Assignments/EXAM_final_Spring-2025_Nguyen-Dinh-Van.md",
+      "Assignments/EXAM_individual-prj_Spring-2025_Nguyen-Dinh-Van.md"
+    ]
+  },
+  {
+    "course_code": "CS-3310",
+    "title": "Foundations of Computer Science",
+    "credits": 3,
+    "prerequisites": [
+      "MTH 1112 with C"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3310/Modules/.keep",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3310/References/.keep",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/CS310 Syllabus_20241- Dr Ly.doc",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3310/Syllabi/CS310%20Syllabus_20241-%20Dr%20Ly.doc",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "CS-3323",
+    "title": "Data Structures",
+    "credits": 3,
+    "prerequisites": [
+      "CS 2255",
+      "MTH 1125"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-12_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/Modules/Chapter-12_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-15_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/Modules/Chapter-15_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-16_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/Modules/Chapter-16_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-6_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/Modules/Chapter-6_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-7_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/Modules/Chapter-7_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-8_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/Modules/Chapter-8_Suman-Kumar.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/ADT, DATA STRUCTURE AND PROBLEM SOLVING.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/References/ADT%2C%20DATA%20STRUCTURE%20AND%20PROBLEM%20SOLVING.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/CodeSamplesChapter06.htm",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/References/CodeSamplesChapter06.htm",
+        "link": ""
+      },
+      {
+        "filename": "References/CodeSamplesChapter07.htm",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/References/CodeSamplesChapter07.htm",
+        "link": ""
+      },
+      {
+        "filename": "References/CodeSamplesChapter08.htm",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/References/CodeSamplesChapter08.htm",
+        "link": ""
+      },
+      {
+        "filename": "References/CodeSamplesChapter12.htm",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/References/CodeSamplesChapter12.htm",
+        "link": ""
+      },
+      {
+        "filename": "References/CodeSamplesChapter15.htm",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/References/CodeSamplesChapter15.htm",
+        "link": ""
+      },
+      {
+        "filename": "References/CodeSamplesChapter16.htm",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/References/CodeSamplesChapter16.htm",
+        "link": ""
+      },
+      {
+        "filename": "References/Introduction.to.Algorithms.4th.Edition.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/References/Introduction.to.Algorithms.4th.Edition.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/QueueByStacks.docx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/References/QueueByStacks.docx",
+        "link": ""
+      },
+      {
+        "filename": "References/Source.cpp",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/References/Source.cpp",
+        "link": ""
+      },
+      {
+        "filename": "References/StackByQueues.docx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/References/StackByQueues.docx",
+        "link": ""
+      },
+      {
+        "filename": "References/library.txt",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/References/library.txt",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3323/Syllabi/.keep",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/Assignment1-Problem2.docx",
+      "Assignments/Assignment2.docx",
+      "Assignments/Assignment6.docx",
+      "Assignments/CS3323-Assignment-5.docx",
+      "Assignments/Sample CS 3323 Midterm 1.pdf",
+      "Assignments/Sample-CS-3323-Final-Exam (2).pdf",
+      "Assignments/Sample-CS-3323-Final-Exam.pdf",
+      "Assignments/Sample-CS-3323-Midterm-1 (2).pdf",
+      "Assignments/Sample-CS-3323-Midterm-1.pdf"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "CS-3329",
+    "title": "Analysis of Algorithms",
+    "credits": 3,
+    "prerequisites": [
+      "CS 2255"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Intro-to-Algorithm-Part-1_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3329/Modules/Intro-to-Algorithm-Part-1_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Intro-to-Algorithm-Part-2_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3329/Modules/Intro-to-Algorithm-Part-2_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Intro-to-Algorithm-Part-3_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3329/Modules/Intro-to-Algorithm-Part-3_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Linear-Programming-Simplex-Method-Complete_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3329/Modules/Linear-Programming-Simplex-Method-Complete_Suman-Kumar.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3329/References/.keep",
+        "link": ""
+      },
+      {
+        "filename": "References/Introduction.to.Algorithms.4th.Edition.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3329/References/Introduction.to.Algorithms.4th.Edition.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3329/Syllabi/.keep",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/Assignment-one (1).docx",
+      "Assignments/CS3329-final-on-the-web.pdf",
+      "Assignments/CS_33229_Midterm_Exam_1.pdf",
+      "Assignments/Exercise-2.docx",
+      "Assignments/Programming-assignment-2.pdf"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "CS-3332",
+    "title": "Software Engineering I",
+    "credits": 3,
+    "prerequisites": [
+      "CS 2255"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-10_Dependable-Systems_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-10_Dependable-Systems_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-11_Reliability-Engineering_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-11_Reliability-Engineering_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-12_Safety-Engineering_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-12_Safety-Engineering_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-13_Security-Engineering_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-13_Security-Engineering_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-14_Resilience-Engineering_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-14_Resilience-Engineering_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-15_Software-Reuse_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-15_Software-Reuse_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-16_Component-Based-Software-Engineering_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-16_Component-Based-Software-Engineering_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-17_Distributed-Software-Engineering_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-17_Distributed-Software-Engineering_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-18_Service-Oriented-Software-Engineering_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-18_Service-Oriented-Software-Engineering_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-19_Systems-Engineering_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-19_Systems-Engineering_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-1_Introduction_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-1_Introduction_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-20_Systems-of-Systems_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-20_Systems-of-Systems_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-21_Real-Time-Software-Engineering_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-21_Real-Time-Software-Engineering_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-22_Project-Management_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-22_Project-Management_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-23_Project-Planning_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-23_Project-Planning_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-24_Quality-Management_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-24_Quality-Management_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-25_Configuration-Management_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-25_Configuration-Management_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-2_SW-Processes_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-2_SW-Processes_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-3_Agile-SW-Dev_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-3_Agile-SW-Dev_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-4_Req-Eng_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-4_Req-Eng_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-5_System-Modeling_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-5_System-Modeling_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-6_Architectural-Design_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-6_Architectural-Design_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-7_Implementation_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-7_Implementation_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-8_Testing_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-8_Testing_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-9_Evolution_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Modules/Chapter-9_Evolution_Du-Dinh-Vien.pptx",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/References/.keep",
+        "link": ""
+      },
+      {
+        "filename": "References/Software Engineering - Ian Sommerville.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/References/Software%20Engineering%20-%20Ian%20Sommerville.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3332/Syllabi/.keep",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "CS-3360",
+    "title": "Concepts of Object-Oriented Programming",
+    "credits": 3,
+    "prerequisites": [
+      "CS 2255"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-11_Database_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3360/Modules/Chapter-11_Database_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-1_Overview_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3360/Modules/Chapter-1_Overview_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-2_Java-Basics_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3360/Modules/Chapter-2_Java-Basics_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-3_Objects-and-Classes_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3360/Modules/Chapter-3_Objects-and-Classes_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-4_Collections_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3360/Modules/Chapter-4_Collections_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-5_Exceptions_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3360/Modules/Chapter-5_Exceptions_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-7_Concurrency_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3360/Modules/Chapter-7_Concurrency_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-8_GUI-Internationalization_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3360/Modules/Chapter-8_GUI-Internationalization_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-9_Graphics-Multimedia_Nguyen-Dinh-Van.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3360/Modules/Chapter-9_Graphics-Multimedia_Nguyen-Dinh-Van.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3360/References/.keep",
+        "link": ""
+      },
+      {
+        "filename": "References/Prentice.Hall.Core.Java.Volume.I.Fundamentals.10th.Edition.0134177304.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3360/References/Prentice.Hall.Core.Java.Volume.I.Fundamentals.10th.Edition.0134177304.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/CS360 - syllabus2024.docx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3360/Syllabi/CS360%20-%20syllabus2024.docx",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/CaseStudy.pdf"
+    ],
+    "exams": [
+      "Assignments/EXAM_final_Spring-2024_Nguyen-Dinh-Van.md"
+    ]
+  },
+  {
+    "course_code": "CS-3365",
+    "title": "Introduction to Computer Organization and Architecture",
+    "credits": 3,
+    "prerequisites": [
+      "CS 3310"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-1_Introduction_Ngo-Lam-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3365/Modules/Chapter-1_Introduction_Ngo-Lam-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-2_ISA_Ngo-Lam-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3365/Modules/Chapter-2_ISA_Ngo-Lam-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-3_Arithmetics_Ngo-Lam-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3365/Modules/Chapter-3_Arithmetics_Ngo-Lam-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-4_CPU_Ngo-Lam-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3365/Modules/Chapter-4_CPU_Ngo-Lam-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-5_Memory_Ngo-Lam-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3365/Modules/Chapter-5_Memory_Ngo-Lam-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-6_IO_Ngo-Lam-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3365/Modules/Chapter-6_IO_Ngo-Lam-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-7_Multiprocessing_Ngo-Lam-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3365/Modules/Chapter-7_Multiprocessing_Ngo-Lam-Trung.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/MARS simulator/Mars4_5.jar",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3365/References/MARS%20simulator/Mars4_5.jar",
+        "link": ""
+      },
+      {
+        "filename": "References/MIPS_Green_Sheet.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3365/References/MIPS_Green_Sheet.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/MK.Computer.Organization.and.Design.4th.Edition.Oct.2011.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3365/References/MK.Computer.Organization.and.Design.4th.Edition.Oct.2011.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/directives and syscall.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3365/References/directives%20and%20syscall.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/CS365 Syllabus - Spring 2024- Dr Trung.docx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3365/Syllabi/CS365%20Syllabus%20-%20Spring%202024-%20Dr%20Trung.docx",
+        "link": ""
+      },
+      {
+        "filename": "Syllabi/CS365 Syllabus - Spring 2024.docx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3365/Syllabi/CS365%20Syllabus%20-%20Spring%202024.docx",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "CS-3370",
+    "title": "Nature of Programming Languages",
+    "credits": 3,
+    "prerequisites": [
+      "CS 3323"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Topic-0_Course-Overview_Nguyen-Dinh-Han.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3370/Modules/Topic-0_Course-Overview_Nguyen-Dinh-Han.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Topic-1_Introduction_Nguyen-Dinh-Han.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3370/Modules/Topic-1_Introduction_Nguyen-Dinh-Han.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Topic-2_Language-Design_Nguyen-Dinh-Han.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3370/Modules/Topic-2_Language-Design_Nguyen-Dinh-Han.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Topic-3_Programming-Paradigms_Nguyen-Dinh-Han.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3370/Modules/Topic-3_Programming-Paradigms_Nguyen-Dinh-Han.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Topic-4_Lang-Syntax_Nguyen-Dinh-Han.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3370/Modules/Topic-4_Lang-Syntax_Nguyen-Dinh-Han.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/1. 2011_Louden _Programming languages_2P.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3370/References/1.%202011_Louden%20_Programming%20languages_2P.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/2. 2016_Robert_Practical Foundations For Programming Languages.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3370/References/2.%202016_Robert_Practical%20Foundations%20For%20Programming%20Languages.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/3. 2017_Kent_Foundations of Programming Languages.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3370/References/3.%202017_Kent_Foundations%20of%20Programming%20Languages.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/4. 2017_John_Python Programming_ An Introduction to Computer Science.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3370/References/4.%202017_John_Python%20Programming_%20An%20Introduction%20to%20Computer%20Science.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/5. 2017_Ray_Programming Language Explorations.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3370/References/5.%202017_Ray_Programming%20Language%20Explorations.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/CS3370_Proj_Guide_NDHan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3370/References/CS3370_Proj_Guide_NDHan.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/CS 3370 syllabus - AProf. Han.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3370/Syllabi/CS%203370%20syllabus%20-%20AProf.%20Han.pdf",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "CS-3372",
+    "title": "Formal Languages and the Theory of Computation",
+    "credits": 3,
+    "prerequisites": [
+      "CS 3323"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Unit-11-12-13_Nguyen-Thi-Thu-Huong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3372/Modules/Unit-11-12-13_Nguyen-Thi-Thu-Huong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-1_Nguyen-Thi-Thu-Huong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3372/Modules/Unit-1_Nguyen-Thi-Thu-Huong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-2_Nguyen-Thi-Thu-Huong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3372/Modules/Unit-2_Nguyen-Thi-Thu-Huong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-3_Nguyen-Thi-Thu-Huong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3372/Modules/Unit-3_Nguyen-Thi-Thu-Huong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-4_Nguyen-Thi-Thu-Huong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3372/Modules/Unit-4_Nguyen-Thi-Thu-Huong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-5_Nguyen-Thi-Thu-Huong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3372/Modules/Unit-5_Nguyen-Thi-Thu-Huong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-6_Nguyen-Thi-Thu-Huong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3372/Modules/Unit-6_Nguyen-Thi-Thu-Huong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-7_Nguyen-Thi-Thu-Huong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3372/Modules/Unit-7_Nguyen-Thi-Thu-Huong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-8_Nguyen-Thi-Thu-Huong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3372/Modules/Unit-8_Nguyen-Thi-Thu-Huong.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Unit-9_Nguyen-Thi-Thu-Huong.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3372/Modules/Unit-9_Nguyen-Thi-Thu-Huong.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/CS372.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3372/References/CS372.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/Introduction to the Theory of Computation 3rd Edition.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3372/References/Introduction%20to%20the%20Theory%20of%20Computation%203rd%20Edition.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/SCHEDULE OF THE COURSE.docx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3372/References/SCHEDULE%20OF%20THE%20COURSE.docx",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/CS372syllabus2024.docx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3372/Syllabi/CS372syllabus2024.docx",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/Sample_Final_Exam_Questions.pdf",
+      "Assignments/Sample_Final_Exam_Questions_with_Solution.pdf",
+      "Assignments/Sample_Midterm.pdf",
+      "Assignments/midterm22_sample.doc"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "CS-4420",
+    "title": "Introduction to Database Systems",
+    "credits": 3,
+    "prerequisites": [
+      "CS 3323"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-1_Introduction_Nguyen-Dinh-Van.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4420/Modules/Chapter-1_Introduction_Nguyen-Dinh-Van.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-2_Introduction-to-the-Relational-Model_Nguyen-Dinh-Van.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4420/Modules/Chapter-2_Introduction-to-the-Relational-Model_Nguyen-Dinh-Van.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-3_Introduction-to-SQL_Nguyen-Dinh-Van.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4420/Modules/Chapter-3_Introduction-to-SQL_Nguyen-Dinh-Van.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-4_Intermediate-SQL_Nguyen-Dinh-Van.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4420/Modules/Chapter-4_Intermediate-SQL_Nguyen-Dinh-Van.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-5_Advanced-SQL_Nguyen-Dinh-Van.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4420/Modules/Chapter-5_Advanced-SQL_Nguyen-Dinh-Van.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-6_Database-Design-Using-the-E-R-Model_Nguyen-Dinh-Van.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4420/Modules/Chapter-6_Database-Design-Using-the-E-R-Model_Nguyen-Dinh-Van.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-7_Relational-Database-Design_Nguyen-Dinh-Van.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4420/Modules/Chapter-7_Relational-Database-Design_Nguyen-Dinh-Van.pptx",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/Database-System-Concepts-7th-Edition.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4420/References/Database-System-Concepts-7th-Edition.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/Schedule CS420.xlsx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4420/References/Schedule%20CS420.xlsx",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/CS420 - syllabus2024.doc",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4420/Syllabi/CS420%20-%20syllabus2024.doc",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "CS-4445",
+    "title": "Data Communication and Networking",
+    "credits": 3,
+    "prerequisites": [
+      "CS 3323"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-1_Du-Dinh-Vien.ppt",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4445/Modules/Chapter-1_Du-Dinh-Vien.ppt",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-2_Du-Dinh-Vien.ppt",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4445/Modules/Chapter-2_Du-Dinh-Vien.ppt",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-3_Du-Dinh-Vien.ppt",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4445/Modules/Chapter-3_Du-Dinh-Vien.ppt",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-4_Du-Dinh-Vien.ppt",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4445/Modules/Chapter-4_Du-Dinh-Vien.ppt",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-5_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4445/Modules/Chapter-5_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-6_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4445/Modules/Chapter-6_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-7_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4445/Modules/Chapter-7_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-8_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4445/Modules/Chapter-8_Du-Dinh-Vien.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-9_Du-Dinh-Vien.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4445/Modules/Chapter-9_Du-Dinh-Vien.pptx",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4445/References/.keep",
+        "link": ""
+      },
+      {
+        "filename": "References/Computer Networking _ A Top Down Approach, 7th, converted.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4445/References/Computer%20Networking%20_%20A%20Top%20Down%20Approach%2C%207th%2C%20converted.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/textbook_8th.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4445/References/textbook_8th.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/Data communication and Networking Syllabus 2024.doc",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4445/Syllabi/Data%20communication%20and%20Networking%20Syllabus%202024.doc",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "CS-4448",
+    "title": "Operating Systems",
+    "credits": 3,
+    "prerequisites": [
+      "CS 3323"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-10_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-10_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-11_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-11_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-12_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-12_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-13_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-13_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-14_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-14_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-15_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-15_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-16_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-16_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-17_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-17_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-18_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-18_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-19_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-19_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-1_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-1_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-20_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-20_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-21_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-21_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-2_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-2_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-3_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-3_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-4_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-4_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-5_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-5_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-6_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-6_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-7_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-7_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-8_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-8_Byungkwan-Jung.pptx",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-9_Byungkwan-Jung.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Modules/Chapter-9_Byungkwan-Jung.pptx",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/References/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/appB.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/References/appB.pptx",
+        "link": ""
+      },
+      {
+        "filename": "References/appC.pptx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/References/appC.pptx",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4448/Syllabi/.keep",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "STAT-2210",
+    "title": "Applied Statistics",
+    "credits": 3,
+    "prerequisites": [
+      "MTH 1112 with C"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Continuous-Random-Variables_Pho-Duc-Tai.ppt",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/STAT-2210/Modules/Continuous-Random-Variables_Pho-Duc-Tai.ppt",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Estimation_Pho-Duc-Tai.ppt",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/STAT-2210/Modules/Estimation_Pho-Duc-Tai.ppt",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Sampling-Distribution_Pho-Duc-Tai.ppt",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/STAT-2210/Modules/Sampling-Distribution_Pho-Duc-Tai.ppt",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Time-Series_Pho-Duc-Tai.ppt",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/STAT-2210/Modules/Time-Series_Pho-Duc-Tai.ppt",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/Hossein Pishro-Nik - Student's Solutions Guide for Introduction to Probability, Statistics, and Random Processes.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/STAT-2210/References/Hossein%20Pishro-Nik%20-%20Student%27s%20Solutions%20Guide%20for%20Introduction%20to%20Probability%2C%20Statistics%2C%20and%20Random%20Processes.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/Probability_and_Statistics_for_Engineers_and_Scientisst.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/STAT-2210/References/Probability_and_Statistics_for_Engineers_and_Scientisst.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/Table_Z.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/STAT-2210/References/Table_Z.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/[Hossein_Pishro-Nik]_Introduction_to_Probability.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/STAT-2210/References/%5BHossein_Pishro-Nik%5D_Introduction_to_Probability.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/MTH210-2024Fall-syllabus.Thursday.docx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/STAT-2210/Syllabi/MTH210-2024Fall-syllabus.Thursday.docx",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/2024_FinalExam_sample.docx",
+      "Assignments/2024_MidtermExam_sample.doc"
+    ],
+    "exams": [
+      "Assignments/EXAM_Time-Series-Test_Fall-2024_Pho-Duc-Tai.pdf"
+    ]
+  },
+  {
+    "course_code": "MTH-2215",
+    "title": "Applied Discrete Mathematics",
+    "credits": 3,
+    "prerequisites": [
+      "MTH 1112 with C"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-1_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-2215/Modules/Chapter-1_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-2_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-2215/Modules/Chapter-2_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-3_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-2215/Modules/Chapter-3_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-4-(&5-in-book)_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-2215/Modules/Chapter-4-%28%265-in-book%29_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-5-(6-in-book)_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-2215/Modules/Chapter-5-%286-in-book%29_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-6-(7-in-book)_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-2215/Modules/Chapter-6-%287-in-book%29_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-7-(8-in-book)_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-2215/Modules/Chapter-7-%288-in-book%29_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-9-(10-in-book)_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-2215/Modules/Chapter-9-%2810-in-book%29_Khoi%26Toan.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/Discrete Mathematics and Its Applications, 7 edition - Rosen.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-2215/References/Discrete%20Mathematics%20and%20Its%20Applications%2C%207%20edition%20-%20Rosen.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/Kĩ năng Discrete Logic.docx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-2215/References/K%C4%A9%20n%C4%83ng%20Discrete%20Logic.docx",
+        "link": ""
+      },
+      {
+        "filename": "References/allnotes.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-2215/References/allnotes.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/MTH 2215 syllabus.doc",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-2215/Syllabi/MTH%202215%20syllabus.doc",
+        "link": ""
+      }
+    ],
+    "assignments": [],
+    "exams": [
+      "Assignments/EXAM_final_Spring-2025_Ho-Minh-Toan.pdf",
+      "Assignments/EXAM_midterm_Spring-2025_Ho-Minh-Toan.pdf"
+    ]
+  },
+  {
+    "course_code": "CS-4451",
+    "title": "Computer Security and Reliability",
+    "credits": 3,
+    "prerequisites": [
+      "CS 3323"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Lecture-1_Introduction_Luu-Quang-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4451/Modules/Lecture-1_Introduction_Luu-Quang-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-2_Malware-and-Social-Engineering-Attacks_Luu-Quang-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4451/Modules/Lecture-2_Malware-and-Social-Engineering-Attacks_Luu-Quang-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-3_Basic-Cryptography_Luu-Quang-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4451/Modules/Lecture-3_Basic-Cryptography_Luu-Quang-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-4_Advanced-Cryptography-and-PKI_Luu-Quang-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4451/Modules/Lecture-4_Advanced-Cryptography-and-PKI_Luu-Quang-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-5_Networking-and-Server-Attacks_Luu-Quang-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4451/Modules/Lecture-5_Networking-and-Server-Attacks_Luu-Quang-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-6_Network-Security-Devices-Design-and-Technology_Luu-Quang-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4451/Modules/Lecture-6_Network-Security-Devices-Design-and-Technology_Luu-Quang-Trung.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/[Book] Ciampa2017_Comptia Security-Guide to Network Security Fundamentals.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4451/References/%5BBook%5D%20Ciampa2017_Comptia%20Security-Guide%20to%20Network%20Security%20Fundamentals.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/CS4451_Syllabus.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4451/Syllabi/CS4451_Syllabus.pdf",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "CS-3331",
+    "title": "Fundamentals of Artificial Intelligence",
+    "credits": 3,
+    "prerequisites": [
+      "CS 3323"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Lecture-10_First-Order-Logic_Pham-Van-Hai.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/Modules/Lecture-10_First-Order-Logic_Pham-Van-Hai.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-11_Inference-in-First-Order-Logi_Pham-Van-Hai.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/Modules/Lecture-11_Inference-in-First-Order-Logi_Pham-Van-Hai.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-12_Planning_Pham-Van-Hai.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/Modules/Lecture-12_Planning_Pham-Van-Hai.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-13a_Decision-Tree-Learning_Pham-Van-Hai.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/Modules/Lecture-13a_Decision-Tree-Learning_Pham-Van-Hai.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-13b_Machine-Learning_Pham-Van-Hai.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/Modules/Lecture-13b_Machine-Learning_Pham-Van-Hai.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-14_Reinforcement-Learning_Pham-Van-Hai.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/Modules/Lecture-14_Reinforcement-Learning_Pham-Van-Hai.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-15_Artificial-Neuron-Networks-an_Pham-Van-Hai.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/Modules/Lecture-15_Artificial-Neuron-Networks-an_Pham-Van-Hai.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-1_Course-presentation_Pham-Van-Hai.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/Modules/Lecture-1_Course-presentation_Pham-Van-Hai.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-2_Agent_Pham-Van-Hai.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/Modules/Lecture-2_Agent_Pham-Van-Hai.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-3_Basic-search-algorithms_Pham-Van-Hai.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/Modules/Lecture-3_Basic-search-algorithms_Pham-Van-Hai.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-4_A-search-Heuristic-Search_Pham-Van-Hai.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/Modules/Lecture-4_A-search-Heuristic-Search_Pham-Van-Hai.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-5_Advanced-search-methods_Pham-Van-Hai.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/Modules/Lecture-5_Advanced-search-methods_Pham-Van-Hai.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-6_Advanced-Search-Methods-Local_Pham-Van-Hai.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/Modules/Lecture-6_Advanced-Search-Methods-Local_Pham-Van-Hai.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-8_Constraint-Satisfaction-Proble_Pham-Van-Hai.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/Modules/Lecture-8_Constraint-Satisfaction-Proble_Pham-Van-Hai.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Lecture-9_Propositional-Logic_Pham-Van-Hai.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/Modules/Lecture-9_Propositional-Logic_Pham-Van-Hai.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/References/.keep",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-3331/Syllabi/.keep",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "CS-4410",
+    "title": "Introduction to Machine Learning",
+    "credits": 3,
+    "prerequisites": [
+      "CS 3323",
+      "MTH 2210"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-11_Multilayer-Perceptrons_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4410/Modules/Chapter-11_Multilayer-Perceptrons_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-13_Kernel-Machines_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4410/Modules/Chapter-13_Kernel-Machines_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-14_Graphical-Models_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4410/Modules/Chapter-14_Graphical-Models_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-17_Combining-Multiple-Learners_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4410/Modules/Chapter-17_Combining-Multiple-Learners_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-19_Design-Experiments-Evaluations-Complete_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4410/Modules/Chapter-19_Design-Experiments-Evaluations-Complete_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-1_Introduction_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4410/Modules/Chapter-1_Introduction_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-2_Supervised-Learning-Complete_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4410/Modules/Chapter-2_Supervised-Learning-Complete_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-3_Bayesian-Decision-Theory_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4410/Modules/Chapter-3_Bayesian-Decision-Theory_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-4_Parametric-Methods_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4410/Modules/Chapter-4_Parametric-Methods_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-6_Dimensionality-Reduction_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4410/Modules/Chapter-6_Dimensionality-Reduction_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-7_Clustering_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4410/Modules/Chapter-7_Clustering_Suman-Kumar.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-9_Decision-Trees_Suman-Kumar.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4410/Modules/Chapter-9_Decision-Trees_Suman-Kumar.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/GenerativeAI.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4410/References/GenerativeAI.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/Recomender System.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4410/References/Recomender%20System.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/CS-4410/Syllabi/.keep",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "MTH-1112",
+    "title": "Pre-Calculus Algebra",
+    "credits": 3,
+    "prerequisites": [],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1112/Modules/.keep",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1112/References/.keep",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/DoanDuyTrung-MTH112-20211-Tuesday.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1112/Syllabi/DoanDuyTrung-MTH112-20211-Tuesday.pdf",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "MTH-1114",
+    "title": "Pre-Algebra Trigonometry",
+    "credits": 3,
+    "prerequisites": [
+      "MTH 1112 with C"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-1_Review-Of-Functions_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1114/Modules/Chapter-1_Review-Of-Functions_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-2_Part-1_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1114/Modules/Chapter-2_Part-1_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-2_Part-2_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1114/Modules/Chapter-2_Part-2_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-3_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1114/Modules/Chapter-3_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-4_Part-1_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1114/Modules/Chapter-4_Part-1_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-4_Part-2_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1114/Modules/Chapter-4_Part-2_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-5_Part-1_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1114/Modules/Chapter-5_Part-1_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-5_Part-2_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1114/Modules/Chapter-5_Part-2_Khoi%26Toan.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-6_Khoi&Toan.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1114/Modules/Chapter-6_Khoi%26Toan.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/Ron Larson - Precalculus-Brooks Cole (2017).pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1114/References/Ron%20Larson%20-%20Precalculus-Brooks%20Cole%20%282017%29.pdf",
+        "link": ""
+      },
+      {
+        "filename": "References/trig_cheat_sheet.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1114/References/trig_cheat_sheet.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/MTH114-2022Spring.doc",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MTH-1114/Syllabi/MTH114-2022Spring.doc",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "MGT-3300",
+    "title": "Principles of Management",
+    "credits": 3,
+    "prerequisites": [],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-1_Introduction-To-Management_Pham-Thi-Kim-Ngoc.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MGT-3300/Modules/Chapter-1_Introduction-To-Management_Pham-Thi-Kim-Ngoc.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-2_Historical-Development-of-Management_Pham-Thi-Kim-Ngoc.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MGT-3300/Modules/Chapter-2_Historical-Development-of-Management_Pham-Thi-Kim-Ngoc.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-3_Business-Environment-of-an-Organization_Pham-Thi-Kim-Ngoc.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MGT-3300/Modules/Chapter-3_Business-Environment-of-an-Organization_Pham-Thi-Kim-Ngoc.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-4_Foundations-of-Planning_Pham-Thi-Kim-Ngoc.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MGT-3300/Modules/Chapter-4_Foundations-of-Planning_Pham-Thi-Kim-Ngoc.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-5_Organizing_Pham-Thi-Kim-Ngoc.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MGT-3300/Modules/Chapter-5_Organizing_Pham-Thi-Kim-Ngoc.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-6_Human-Resources-Management_Pham-Thi-Kim-Ngoc.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MGT-3300/Modules/Chapter-6_Human-Resources-Management_Pham-Thi-Kim-Ngoc.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-7_Leaderships_Pham-Thi-Kim-Ngoc.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MGT-3300/Modules/Chapter-7_Leaderships_Pham-Thi-Kim-Ngoc.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-8_Controlling_Pham-Thi-Kim-Ngoc.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MGT-3300/Modules/Chapter-8_Controlling_Pham-Thi-Kim-Ngoc.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/Bricklaying.mp4",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MGT-3300/References/Bricklaying.mp4",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/Management syllabus_2024- Tues, Fri.doc",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/MGT-3300/Syllabi/Management%20syllabus_2024-%20Tues%2C%20Fri.doc",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/MGT371 case study 1-7.pdf"
+    ],
+    "exams": [
+      "Assignments/EXAM_final_Spring-2024_Pham-Thi-Kim-Ngoc.pdf"
+    ]
+  },
+  {
+    "course_code": "IS-2241",
+    "title": "Computer Concepts & Applications",
+    "credits": 3,
+    "prerequisites": [],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/IS-2241/Modules/.keep",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/IS-2241/References/.keep",
+        "link": ""
+      },
+      {
+        "filename": "References/Cambridge International AS and A Level Computer Science Coursebook_WatsonD_asaCS__Hodder_2019.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/IS-2241/References/Cambridge%20International%20AS%20and%20A%20Level%20Computer%20Science%20Coursebook_WatsonD_asaCS__Hodder_2019.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/IS241_Syllabus_FallSemester_2023- Tues.docx",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/IS-2241/Syllabi/IS241_Syllabus_FallSemester_2023-%20Tues.docx",
+        "link": ""
+      }
+    ],
+    "assignments": [],
+    "exams": [
+      "Assignments/EXAM_final_Fall-2023_Nguyen-Nhat-Hai.pdf"
+    ]
+  },
+  {
+    "course_code": "QM-2241",
+    "title": "Business Statistics and Data Analytics",
+    "credits": 3,
+    "prerequisites": [
+      "MTH 1112",
+      "IS 2241"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [
+      {
+        "filename": "Modules/Chapter-10_Doan-Duy-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/QM-2241/Modules/Chapter-10_Doan-Duy-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-1_Doan-Duy-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/QM-2241/Modules/Chapter-1_Doan-Duy-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-2_Doan-Duy-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/QM-2241/Modules/Chapter-2_Doan-Duy-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-3_Doan-Duy-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/QM-2241/Modules/Chapter-3_Doan-Duy-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-4_Doan-Duy-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/QM-2241/Modules/Chapter-4_Doan-Duy-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-5_Doan-Duy-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/QM-2241/Modules/Chapter-5_Doan-Duy-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-6_Doan-Duy-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/QM-2241/Modules/Chapter-6_Doan-Duy-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-7_Doan-Duy-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/QM-2241/Modules/Chapter-7_Doan-Duy-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-8_Doan-Duy-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/QM-2241/Modules/Chapter-8_Doan-Duy-Trung.pdf",
+        "link": ""
+      },
+      {
+        "filename": "Modules/Chapter-9_Doan-Duy-Trung.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/QM-2241/Modules/Chapter-9_Doan-Duy-Trung.pdf",
+        "link": ""
+      }
+    ],
+    "textbooks": [],
+    "reference_materials": [
+      {
+        "filename": "References/.keep",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/QM-2241/References/.keep",
+        "link": ""
+      },
+      {
+        "filename": "References/15th-Douglas Lind, William Marchal, Samuel Wathen - Statistical Techniques in Business and Economics- (2011).pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/QM-2241/References/15th-Douglas%20Lind%2C%20William%20Marchal%2C%20Samuel%20Wathen%20-%20Statistical%20Techniques%20in%20Business%20and%20Economics-%20%282011%29.pdf",
+        "link": ""
+      }
+    ],
+    "exam_dates": {},
+    "syllabi": [
+      {
+        "filename": "Syllabi/QM241-20243-Summer-HUST.pdf",
+        "raw_link": "https://raw.githubusercontent.com/Bladz1/Troy-University-Resources/main/QM-2241/Syllabi/QM241-20243-Summer-HUST.pdf",
+        "link": ""
+      }
+    ],
+    "assignments": [
+      "Assignments/.keep"
+    ],
+    "exams": []
+  },
+  {
+    "course_code": "SSH1111Q",
+    "title": "Triết học Mác - Lênin",
+    "credits": 3,
+    "prerequisites": [
+      "1"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [],
+    "textbooks": [],
+    "reference_materials": [],
+    "exam_dates": {},
+    "syllabi": [],
+    "assignments": [],
+    "exams": []
+  },
+  {
+    "course_code": "SSH1121Q",
+    "title": "Kinh tế chính trị Mác - Lênin",
+    "credits": 2,
+    "prerequisites": [
+      "2"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [],
+    "textbooks": [],
+    "reference_materials": [],
+    "exam_dates": {},
+    "syllabi": [],
+    "assignments": [],
+    "exams": []
+  },
+  {
+    "course_code": "SSH1131Q",
+    "title": "Chủ nghĩa xã hội khoa học",
+    "credits": 2,
+    "prerequisites": [
+      "3"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [],
+    "textbooks": [],
+    "reference_materials": [],
+    "exam_dates": {},
+    "syllabi": [],
+    "assignments": [],
+    "exams": []
+  },
+  {
+    "course_code": "SSH1141Q",
+    "title": "Lịch sử Đảng Cộng sản Việt Nam",
+    "credits": 2,
+    "prerequisites": [
+      "4"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [],
+    "textbooks": [],
+    "reference_materials": [],
+    "exam_dates": {},
+    "syllabi": [],
+    "assignments": [],
+    "exams": []
+  },
+  {
+    "course_code": "SSH1151Q",
+    "title": "Tư tưởng Hồ Chí Minh",
+    "credits": 2,
+    "prerequisites": [
+      "5"
+    ],
+    "instructors": [],
+    "description": "",
+    "current_term": false,
+    "classes": [],
+    "grading_policy": "",
+    "modules": [],
+    "textbooks": [],
+    "reference_materials": [],
+    "exam_dates": {},
+    "syllabi": [],
+    "assignments": [],
+    "exams": []
+  }
+]
