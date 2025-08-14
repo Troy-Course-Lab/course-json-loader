@@ -5,7 +5,7 @@ import tempfile
 import re
 from urllib.parse import unquote, quote
 from git import Repo
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Set
 
 # ============================
 # New COURSE TEMPLATE (flat)
@@ -36,6 +36,23 @@ COURSE_TEMPLATE = {
     "assignments": [],          # list[str] (relative paths inside the course folder)
     "exams": []                 # list[str]
 }
+
+# ============================
+# Skip configuration (defaults)
+# ============================
+# You can override these via function parameters.
+DEFAULT_SKIP_COURSE_CODES: Set[str] = {
+    # Example blocklist (user request):
+    # Political theory courses to skip
+    "SSH1111Q", "SSH1121Q", "SSH1131Q", "SSH1141Q", "SSH1151Q",
+}
+
+# If any of these substrings (case-insensitive) appear in the *folder name*, skip the course.
+DEFAULT_SKIP_FOLDER_SUBSTRINGS: Set[str] = {"lý luận chính trị"}
+
+# If any of these substrings (case-insensitive) appear in the *course title*, skip the course.
+DEFAULT_SKIP_TITLE_SUBSTRINGS: Set[str] = set()
+
 
 # ----------------------------
 # README parsing helpers
@@ -129,10 +146,52 @@ def _build_raw_url(owner_repo: str, branch: str, path_in_repo: str) -> str:
 
 
 # ----------------------------
+# Utility helpers
+# ----------------------------
+
+def _norm(s: str) -> str:
+    return s.casefold().strip()
+
+
+def _should_skip(course_code: str,
+                 course_title: str,
+                 folder_name: str,
+                 skip_codes: Set[str],
+                 skip_folder_substrings: Set[str],
+                 skip_title_substrings: Set[str]) -> Optional[str]:
+    """Return reason string if should skip; else None."""
+    if course_code in skip_codes:
+        return f"course_code '{course_code}' nằm trong danh sách bỏ qua"
+
+    nfolder = _norm(folder_name)
+    for sub in skip_folder_substrings:
+        if sub in nfolder:
+            return f"folder '{folder_name}' khớp chuỗi bỏ qua '{sub}'"
+
+    ntitle = _norm(course_title)
+    for sub in skip_title_substrings:
+        if sub in ntitle:
+            return f"title chứa chuỗi bỏ qua '{sub}'"
+
+    return None
+
+
+# ----------------------------
 # Core extraction
 # ----------------------------
 
-def extract_course_metadata(repo_url_or_path: str, output_file: str = 'course.json') -> None:
+def extract_course_metadata(
+    repo_url_or_path: str,
+    output_file: str = 'course.json',
+    skip_course_codes: Optional[Set[str]] = None,
+    skip_folder_substrings: Optional[Set[str]] = None,
+    skip_title_substrings: Optional[Set[str]] = None,
+) -> None:
+    # Resolve skip config (merge defaults + user-provided)
+    skip_course_codes = set(skip_course_codes or set()) | set(DEFAULT_SKIP_COURSE_CODES)
+    skip_folder_substrings = { _norm(s) for s in (skip_folder_substrings or set()) | set(DEFAULT_SKIP_FOLDER_SUBSTRINGS) }
+    skip_title_substrings = { _norm(s) for s in (skip_title_substrings or set()) | set(DEFAULT_SKIP_TITLE_SUBSTRINGS) }
+
     # PREREQUISITE: check if git-lfs is installed (if cloning repos with large files)
     if repo_url_or_path.startswith(('http', 'git@')) and not shutil.which('git-lfs'):
         print("Lỗi: 'git-lfs' không được cài đặt hoặc không có trong PATH của hệ thống.")
@@ -196,7 +255,7 @@ def extract_course_metadata(repo_url_or_path: str, output_file: str = 'course.js
     special_codes = {"MTH-1125", "HIS-1123", "HIS-1122", "MTH-1126"}
 
     for course_code, details in course_details_map.items():
-        # Xử lý đặc biệt cho 4 course này
+        # Resolve folder name
         if course_code in special_codes:
             if course_code in os.listdir(repo_path):
                 course_folder_name = course_code
@@ -208,6 +267,19 @@ def extract_course_metadata(repo_url_or_path: str, output_file: str = 'course.js
             if not course_folder_name:
                 print(f"  -> Cảnh báo: Không tìm thấy link đến folder cho course '{course_code}'. Bỏ qua.")
                 continue
+
+        # Skip logic (by code / folder / title)
+        reason = _should_skip(
+            course_code=course_code,
+            course_title=details.get('title') or '',
+            folder_name=course_folder_name,
+            skip_codes=skip_course_codes,
+            skip_folder_substrings=skip_folder_substrings,
+            skip_title_substrings=skip_title_substrings,
+        )
+        if reason:
+            print(f"  -> Bỏ qua course: {course_code} (Folder: {course_folder_name}) — {reason}.")
+            continue
 
         course_path = os.path.join(repo_path, course_folder_name)
         if not os.path.isdir(course_path):
@@ -321,14 +393,35 @@ def extract_course_metadata(repo_url_or_path: str, output_file: str = 'course.js
         shutil.rmtree(temp_dir, ignore_errors=True)
 
 
-def run_course_loader(repo_url_or_path: str) -> list:
-    """Convenience API for backend to run loader and return parsed JSON list."""
+def run_course_loader(
+    repo_url_or_path: str,
+    *,
+    skip_course_codes: Optional[Set[str]] = None,
+    skip_folder_substrings: Optional[Set[str]] = None,
+    skip_title_substrings: Optional[Set[str]] = None,
+) -> list:
+    """Convenience API for backend to run loader and return parsed JSON list.
+
+    Example:
+        run_course_loader(
+            "/path/to/repo",
+            skip_course_codes={"SSH1111Q", "SSH1121Q", "SSH1131Q", "SSH1141Q", "SSH1151Q"},
+            skip_folder_substrings={"Lý luận chính trị"},
+        )
+    """
     output_file = "_temp_course.json"
-    extract_course_metadata(repo_url_or_path, output_file=output_file)
+    extract_course_metadata(
+        repo_url_or_path,
+        output_file=output_file,
+        skip_course_codes=skip_course_codes,
+        skip_folder_substrings=skip_folder_substrings,
+        skip_title_substrings=skip_title_substrings,
+    )
     with open(output_file, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
 if __name__ == "__main__":
     repo_to_scan = input("Nhập link to repo or đường dẫn trên máy đã clone: ")
+    # Quick CLI run using defaults (includes the skip lists defined above)
     extract_course_metadata(repo_to_scan)
