@@ -422,7 +422,26 @@
       }
     ],
     "assignments": [
-      "Assignments/.keep"
+      "Assignments/ENG-2205 Assignment 10.docx",
+      "Assignments/ENG-2205 Assignment 10.pdf",
+      "Assignments/ENG-2205 Assignment 11.docx",
+      "Assignments/ENG-2205 Assignment 11.pdf",
+      "Assignments/ENG-2205 Assignment 2.docx",
+      "Assignments/ENG-2205 Assignment 2.pdf",
+      "Assignments/ENG-2205 Assignment 3, Crane, Gregory - Creon and the 'Ode to Man' in Sophocles' Antigone (article, 1989).pdf",
+      "Assignments/ENG-2205 Assignment 3.docx",
+      "Assignments/ENG-2205 Assignment 3.pdf",
+      "Assignments/ENG-2205 Assignment 4.docx",
+      "Assignments/ENG-2205 Assignment 4.pdf",
+      "Assignments/ENG-2205 Assignment 5, Tell, David - Beyond Mnemotechnics ~ Confession and Memory in Augustine (article, 2006).pdf",
+      "Assignments/ENG-2205 Assignment 5.docx",
+      "Assignments/ENG-2205 Assignment 5.pdf",
+      "Assignments/ENG-2205 Assignment 6.docx",
+      "Assignments/ENG-2205 Assignment 6.pdf",
+      "Assignments/ENG-2205 Assignment 8.docx",
+      "Assignments/ENG-2205 Assignment 8.pdf",
+      "Assignments/ENG-2205 Assignment 9.docx",
+      "Assignments/ENG-2205 Assignment 9.pdf"
     ],
     "exams": []
   },
@@ -2742,10 +2761,10 @@
         "link": ""
       }
     ],
-    "assignments": [
-      "Assignments/.keep"
-    ],
-    "exams": []
+    "assignments": [],
+    "exams": [
+      "Assignments/EXAM_midterm_Fall-2024_Suman-Kumar.pdf"
+    ]
   },
   {
     "course_code": "MTH-1112",
